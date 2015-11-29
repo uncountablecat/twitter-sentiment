@@ -9,5 +9,5 @@ A script that computes the sentiment for the terms that do not appear in the fil
 ### `frequency.py`: compute term frequency
 A Python script `frequency.py` to compute the term frequency histogram of the livestream data harvested. 
 
-### 'top_ten.py': Top ten hashtags
+### `top_ten.py`: Top ten hashtags
 A Python script `top_ten.py` that computes the ten most frequently occurring hashtags from the data.
